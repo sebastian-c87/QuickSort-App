@@ -15,6 +15,27 @@ Educational GUI application that visualizes the **QuickSort** algorithm step by 
 - Shows pivot selections and list divisions
 - Outputs final sorted list + operation trace
 
+📦 **Ready-to-download version available**
+
+This repository includes an official [Release v1.0.0](https://github.com/sebastian-c87/QuickSort-App/releases/tag/v1.0.0),
+which contains a compiled `.exe` application, complexity chart and full documentation in `.docx` format.
+
+You can download and run `QuickSortApp.exe` without installing Python to test the full GUI experience.
+
+
+> ⚠️ **IMPORTANT NOTICE**
+>
+> When running the file `QuickSortApp.exe`, Windows may show a **SmartScreen warning**:
+>
+> `Windows protected your PC.`
+>
+> This is a default security check for unsigned applications. To run the program:
+>
+> 🟢 Click: **More info** → **Run anyway**
+>
+> The app is completely safe and built locally in Python.
+
+---
 ### 🚀 Run the App
 1. Make sure you have Python 3.10+ and `tkinter`
 2. Run:
@@ -54,6 +75,26 @@ Aplikacja edukacyjna do wizualizacji algorytmu **QuickSort**. Pozwala wprowadzi�
 - Liczy liczbę wykonanych rekurencji
 - Finalny wynik: lista posortowana + analiza krok po kroku
 
+📦 **Gotowa wersja aplikacji do pobrania**
+
+Repozytorium zawiera oficjalny [Release v1.0.0](https://github.com/sebastian-c87/QuickSort-App/releases/tag/v1.0.0), 
+w którym znajduje się gotowy plik wykonywalny `.exe`, wykres złożoności oraz dokumentacja `.docx`.
+
+Możesz pobrać plik `QuickSortApp.exe`, uruchomić aplikację bez instalacji i przetestować jej działanie.
+
+> ⚠️ **WAŻNA INFORMACJA PRZED URUCHOMIENIEM**
+>
+> Po pobraniu aplikacji `QuickSortApp.exe` system Windows może wyświetlić ostrzeżenie **SmartScreen**:
+>
+> `System Windows ochronił ten komputer.`
+>
+> To standardowe zabezpieczenie dla aplikacji bez podpisu cyfrowego. Aby uruchomić program:
+>
+> 🟢 Kliknij: **Więcej informacji** → **Uruchom mimo to**
+>
+> Aplikacja została stworzona lokalnie w Pythonie i jest całkowicie bezpieczna.
+
+---
 ### 🚀 Uruchomienie
 1. Zainstaluj Pythona 3.10+ i bibliotekę `tkinter`
 2. Uruchom:
