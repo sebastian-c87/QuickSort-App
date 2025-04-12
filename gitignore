@@ -1,0 +1,66 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+test-output/
+
+# PyInstaller
+*.manifest
+*.spec
+*.exe
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# IDEs and editors
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Docs
+*.docx
+*.pdf
+
+# Icon files
+*.ico
